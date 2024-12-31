@@ -74,7 +74,7 @@ zytron-template-app/
 
 ---
 
-## *Usage**
+## **Usage**
 
 ### **Adding a New Agent**
 To add a new agent, create a file in the agents/ directory and define the agent logic.
